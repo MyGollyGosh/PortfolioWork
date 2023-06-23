@@ -1,0 +1,7 @@
+function sortYears (years) {
+  years.sort().reverse();
+  return years;
+};
+
+//Think this one might have been made before reverse came out. Takes array (years) sorts it into ascending order using sort,
+// and then reverses it using reverse to make the array years sorted into descending order.
