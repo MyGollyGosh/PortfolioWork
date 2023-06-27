@@ -27,5 +27,5 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 Feel free to reach out to me if you have any questions or would like to discuss potential collaborations.
 
 - Email: lachlan.hooker@hotmail.com
-- LinkedIn: https://www.linkedin.com/in/lachlanhooker
+- LinkedIn: https://www.linkedin.com/in/lachlan-hooker
 - Personal Website: lachlanhooker.com (coming soon)
