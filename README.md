@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! This repository showcases my projects, skills, and experience as a web developer. Feel free to explore the different sections and get to know me better.
+Welcome to my portfolio! There is some webdev stuff in here with some JavaScript, HTML and CSS but recently I have changed focus to better align with the kind of coding I love and have been working on Python with an intention to focus on data science. I'll be updating as I work so feel free to follow allong!
 
 ## Projects
 
@@ -17,10 +17,10 @@ Welcome to my portfolio! This repository showcases my projects, skills, and expe
 
 ## Skills
 
+- Python
 - Front-end Development: HTML, CSS, JavaScript
 - Back-end Development: Node.js
 - Version Control: Git, GitHub
-
 
 ## Contact
 
@@ -28,4 +28,3 @@ Feel free to reach out to me if you have any questions or would like to discuss 
 
 - Email: lachlan.hooker@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/lachlan-hooker
-- Personal Website: lachlanhooker.com (coming soon)
